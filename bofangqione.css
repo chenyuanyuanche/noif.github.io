@@ -1,0 +1,310 @@
+body{
+   
+
+}
+#box{
+	 font-style:微软雅黑;
+   
+	position:absolute;
+	height:1000px;
+	width:610px;
+	left:25%;
+	right:25%;
+}
+a.open{
+	display:block;
+	width:20px;
+	height:20px;
+	background:red;
+}
+.banner{
+	width:610px;
+	height:145px;
+	background:url("bofangqi/images/陈巧凌_01.png");
+	
+}
+#bianhua{
+	position:absolute;
+	top:0px;
+	right:0px;
+	height:20px;
+	width:70px;
+}
+#min{
+	width:20px;
+	height:19px;
+	background:url("bofangqi/images/tool_03.png");
+	display:block;
+	float:left;
+	margin-right:5px;
+
+}
+#huanyuan{
+	width:20px;
+	height:19px;
+	display:block;
+	background:url("bofangqi/images/tool_07.png");
+	float:left;
+	position:absolute;
+	left:25px;
+	display:none;
+	margin-right:5px;
+}
+#max{
+	width:20px;
+	height:19px;
+	display:block;
+	background:url("bofangqi/images/tool_05.png");
+	float:left;
+	margin-right:5px;
+
+}
+#close{
+    width:20px;
+	height:19px;
+	display:block;
+	background:url("bofangqi/images/too9_03.png");
+	float:left;
+}
+.logo{
+	height:55px;
+	padding-top:20px;
+}
+#today{
+	color:#fbfcfc;
+	font-size:20px;
+	margin-left:37px;
+
+	
+	font-weight:6;
+}
+#process{
+	width:540px;
+	height:8px;
+	background:#367a8b;
+	display:block;
+	margin:0 auto;
+	margin-top:7px;
+
+}
+#time{
+	color:#fbfcfc;
+	font-size:16px;
+	margin-left:37px;
+	display:block;
+	padding-top:9px;
+	font-weight:6;
+
+}
+.control{
+	margin-left:30px;
+	height:70px;
+}
+#playlefto{
+	position:relative;
+	bottom:5px;
+}
+#playlefton{
+	margin-left:70px;
+	position:relative;
+	bottom:5px;
+}
+#playleft
+{
+	margin-left:20px;
+	position:relative;
+	bottom:5px;
+}
+#playmid
+{
+	margin-left:19px;
+}
+#playright
+{
+	margin-left:20px;
+	position:relative;
+	bottom:5px;
+}
+#playrighton
+{
+	margin-left:20px;
+	position:relative;
+	bottom:5px;
+}
+#playrighto
+{
+	margin-left:63px;
+	position:relative;
+	bottom:5px;
+}
+ul{
+	margin:0;
+	padding:0;
+	list-style-type: none;
+	position:relative;
+	bottom:2px;
+	float:left;
+
+}
+#nav{
+	width:610px;
+	height:790px;
+
+}
+#adjusto{
+	width:93px;
+	height:790px;
+	float:left;
+	background:url("bofangqi/images/陈巧凌_02.png");
+}
+#adjust{
+	background:url("bofangqi/images/陈巧凌_04.png");
+	width:517px;
+	height:790px;
+	float:left;
+	display:none;
+}
+#adjusta{
+	background:url("bofangqi/images/陈巧凌_04.png");
+	width:517px;
+	height:790px;
+	float:left;
+	display:none;
+}
+#adjustb{
+	background:url("bofangqi/images/陈巧凌_04.png");
+	width:517px;
+	height:790px;
+	float:left;
+	display:none;
+}
+#adjustc{
+	background:url("bofangqi/images/陈巧凌_04.png");
+	width:517px;
+	height:790px;
+	float:left;
+	display:none;
+}
+a{
+	text-decoration:none;
+}
+.headf{
+	height:67px;
+    display:block;
+    text-align:center;
+    font-size:30px;
+    
+    font-weight:solid;
+}
+.headf a{
+	color:#000000;
+	position:relative;
+	top:9px;
+}
+.heads{
+	height:56px;
+	display:block;
+	margin-top:3px;
+	text-align:center;
+}
+.heads a
+{
+	color:#5b5b5a;
+	position:relative;
+	top:10px;
+	font-size:22px;
+	font-weight:solid;
+
+}
+.footer{
+	height:47px;
+	width:610px;
+}
+#distance{
+	font-size:21px;
+	display:inline-block;
+	margin-right:100px;
+
+}
+#distance a:link,a:visited{
+	color:#5b5b5a;
+}
+#distance a:hover{
+	color:#000;
+}
+#distanceo{
+	font-size:21px;
+	margin-right:78px;
+}
+#distanceo a:link,a:visited{
+	color:#5b5b5a;
+}
+#distanceo a:hover{
+	color:#000;
+}
+#equal{
+	width:462px;
+	height:44px;
+	margin-bottom:4px;
+	padding-left:55px;
+	padding-top:19px;
+
+}
+#equalo{
+	width:467px;
+	height:39px;
+	margin-bottom:5px;
+	padding-left:50px;
+	padding-top:15px;
+}
+#equaln{
+	width:463px;
+	height:39px;
+	padding-top:15px;
+	padding-left:54px;
+	margin-bottom:5px;
+
+
+}
+#distancen{
+	font-size:21px;
+	display:inline-block;
+	margin-right:95px;
+
+}
+#distancen a:link,a:visited{
+	color:#5b5b5a;
+}
+#distancen a:hover{
+	color:#000;
+}
+#distancen .distancen{
+    position:relative;
+    left:-15px;
+}
+#equalt{
+	width:488px;
+	height:39px;
+	padding-top:15px;
+	padding-left:29px;
+	margin-bottom:5px;
+
+
+}
+#distancet{
+	font-size:21px;
+	display:inline-block;
+	margin-right:79px;
+
+}
+#distancet a:link,a:visited{
+	color:#5b5b5a;
+}
+#distancet a:hover{
+	color:#000;
+}
+.footer{
+	width:610px;
+	height:48px;
+	background:url("bofangqi/images/footer_05.png");
+}
